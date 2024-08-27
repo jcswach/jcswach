@@ -2,7 +2,7 @@
 
 ### Java | Spring | Spring MVC | Spring Boot Developer
 
-![Header Image](https://user-images.githubusercontent.com/your-image.png)
+![Header Image]([https://user-images.githubusercontent.com/your-image.png](https://github.com/jcswach/jcswach/blob/main/avatar.jpg))
 
 ---
 
