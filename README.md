@@ -1,35 +1,47 @@
-# 💻 **[Juan Abarca Olivos]** 
+
+# 💻 **Juan Abarca Olivos**
 
 ### Java | Spring | Spring MVC | Spring Boot Developer
 
-![Header Image](https://github.com/jcswach/jcswach/blob/main/html5_1.webp)
+![Header Image](https://github.com/tuusuario/tu-repositorio/blob/main/imagen.png?raw=true)
 
 ---
 
 ## 🚀 **Sobre mí**
 
-Soy un desarrollador apasionado con experiencia en **Java** y el ecosistema **Spring**. Me especializo en la construcción de aplicaciones robustas y escalables utilizando **Spring MVC** y **Spring Boot**. Mi enfoque es crear soluciones eficientes y de alta calidad que impacten positivamente a los usuarios y a los negocios.
+👋 ¡Hola! Soy Juan Abarca Olivos, un desarrollador de software especializado en **Java** y **Spring Framework**. Me apasiona crear aplicaciones robustas y eficientes que resuelvan problemas del mundo real. Tengo experiencia en la construcción de APIs RESTful, sistemas de backend y soluciones empresariales.
 
-### **Lenguajes y Tecnologías:**
-- **Java**
-- **Spring Framework**
-- **Spring MVC**
-- **Spring Boot**
-- **RESTful APIs**
-- **MySQL**
-- **Hibernate**
+---
+
+## 🛠️ **Tecnologías y Herramientas**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+
+---
 
 ## 🌟 **Proyectos Destacados**
 
-### 📂 [Proyecto 1: Sistema de Gestión de Tareas](https://github.com/tuusuario/proyecto1)
+### 🚀 [Sistema de Gestión de Tareas](https://github.com/tuusuario/proyecto1)
+![Tareas](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=flat-square&logo=spring-boot)
+
 - **Descripción:** Una aplicación completa para la gestión de tareas utilizando Spring Boot y Thymeleaf.
 - **Tecnologías:** Java, Spring Boot, Spring Security, MySQL, Thymeleaf.
 - **Destacados:** Autenticación y autorización con Spring Security, integración con base de datos MySQL.
 
-### 📂 [Proyecto 2: API de Comercio Electrónico](https://github.com/tuusuario/proyecto2)
+### 🌐 [API de Comercio Electrónico](https://github.com/tuusuario/proyecto2)
+![E-Commerce](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=flat-square&logo=spring-boot)
+
 - **Descripción:** API RESTful para una plataforma de comercio electrónico, con integración de pagos y gestión de productos.
 - **Tecnologías:** Java, Spring Boot, Spring Data JPA, Stripe API.
 - **Destacados:** Implementación de pagos en línea, arquitectura de microservicios.
+
+---
 
 ## 📫 **Conéctate conmigo**
 
@@ -39,12 +51,37 @@ Soy un desarrollador apasionado con experiencia en **Java** y el ecosistema **Sp
 
 ---
 
-### 🛠️ **Skills**
+## 🌱 **Lo que estoy aprendiendo actualmente**
 
-```yaml
-- Lenguajes: 
-  - Java
-- Frameworks:
-  - Spring Framework, Spring MVC, Spring Boot
-- Otras Tecnologías:
-  - MySQL, Hibernate, RESTful APIs
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-6C757D?style=for-the-badge)
+
+Estoy explorando las tecnologías de contenedores y la arquitectura de microservicios para mejorar la escalabilidad y la eficiencia de las aplicaciones que desarrollo.
+
+---
+
+## 🎯 **Objetivos**
+
+Mis objetivos actuales son:
+- Contribuir a proyectos open-source relacionados con Java y Spring.
+- Ampliar mi conocimiento en DevOps y despliegue en la nube.
+- Participar en conferencias y talleres tecnológicos.
+
+---
+
+## 🔗 **Portafolio**
+
+🌐 **Visita mi portafolio**: [miportafolio.com](https://miportafolio.com)
+
+---
+
+## ✨ **Extras**
+
+![GIF Animado](https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif)
+
+Espero conectar con otros desarrolladores apasionados y seguir aprendiendo y creciendo en la comunidad tecnológica.
+
+---
+
+👨‍💻 _"El código es poesía."_
