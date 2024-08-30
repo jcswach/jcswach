@@ -7,9 +7,9 @@
 
 ---
 
-## 🚀 **Sobre mí**
+## 🚀 **About me**
 
-👋 ¡Hola! Soy Juan Abarca Olivos, un desarrollador de software especializado en **Java** y **Spring Framework**. Me apasiona crear aplicaciones robustas y eficientes que resuelvan problemas del mundo real. Tengo experiencia en la construcción de APIs RESTful, sistemas de backend y soluciones empresariales.
+👋 ¡Hola! Hi, I'm Juan C. Abarca O., Ingeniero Comercial mención en informática, docente y desarrollador de software especializado en **Java** y **Spring Framework**. Me apasiona buscar la manera de ayudar a aprender y crear aplicaciones robustas y eficientes que resuelvan problemas del mundo real. Tengo experiencia en la construcción de APIs RESTful, sistemas de backend y soluciones empresariales.
 
 ---
 
