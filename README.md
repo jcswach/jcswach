@@ -1,5 +1,5 @@
 
-# 💻 **Juan Abarca Olivos**
+# 💻 **Juan Carlos Abarca**
 
 ### Java | Spring | Spring MVC | Spring Boot Developer
 
@@ -9,11 +9,11 @@
 
 ## 🚀 **About me**
 
-👋 ¡Hola! Hi, I'm Juan C. Abarca O., Ingeniero Comercial mención en informática, docente y desarrollador de software especializado en **Java** y **Spring Framework**. Me apasiona buscar la manera de ayudar a aprender y crear aplicaciones robustas y eficientes que resuelvan problemas del mundo real. Tengo experiencia en la construcción de APIs RESTful, sistemas de backend y soluciones empresariales.
+👋 Hi, I'm Juan C. Abarca O., Ingeniero especializado en docencia y desarrollo de software y tecnologías, tales como **Java**, **Spring Framework**. Me apasiona buscar la manera de ayudar a aprender y crear aplicaciones robustas y eficientes que resuelvan problemas del mundo real. Mo objetivo es traspasar didacticamente mi experiencia en la construcción de APIs RESTful, sistemas de backend y soluciones empresariales.
 
 ---
 
-## 🛠️ **Tecnologías y Herramientas**
+## 🛠️ **Technolgies and tools**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
@@ -23,7 +23,7 @@
 
 ---
 
-## 🌟 **Proyectos Destacados**
+## 🌟 **Featured projects*
 
 ### 🚀 [Sistema de Gestión de Tareas](https://github.com/tuusuario/proyecto1)
 ![Tareas](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
